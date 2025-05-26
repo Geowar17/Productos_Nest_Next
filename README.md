@@ -1,7 +1,7 @@
 
-# 🔥 Fullstack Starter Project — NestJS + Prisma + Frontend
+# 🔥 Fullstack Starter Project — NestJS + Prisma + Next.JS
 
-This is a fullstack starter boilerplate that combines a robust **NestJS backend** with **Prisma ORM** and a modern **frontend (e.g., Next.js)**. It includes user authentication, protected API routes, and a clean structure to scale your applications efficiently.
+This is a fullstack starter boilerplate that combines a robust **NestJS backend** with **Prisma ORM** and a modern **frontend Next.js. It includes user authentication, protected API routes, and a clean structure to scale your applications efficiently.
 
 ---
 
